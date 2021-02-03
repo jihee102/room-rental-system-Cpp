@@ -1,0 +1,3 @@
+Donald 1 700
+Andrew 2 600
+Grace 3 200
